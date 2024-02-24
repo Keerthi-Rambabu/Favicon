@@ -1,0 +1,36 @@
+
+body{
+    background-color:white;
+    color:black;
+    font-size:20px; 
+    margin-left:40px;
+    line-height:40px;
+}
+.container{
+    background-color:antiquewhite;
+    height:70px;
+    align-items: center;
+    align-content: center;
+}
+label{
+    color:red;
+    font-size:60px; 
+}
+label span{
+    color:black;
+    font-size:30px;
+}
+h1{
+    text-align: center;
+    font-size:40px;
+    
+}
+img{
+    width:70%;
+    margin:40px auto 40px auto;
+    border:2px solid;
+}
+li{
+    font-size:larger;
+    margin:auto 50px auto 50px;
+}
